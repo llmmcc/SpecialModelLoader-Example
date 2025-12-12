@@ -1,13 +1,4 @@
-# Blender MTL File: 'test_fancing.blend'
-# Material Count: 1
-
-newmtl tex
-Ns 250.000000
-Ka 1.000000 1.000000 1.000000
-Kd 0.800000 0.800000 0.800000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.450000
-d 1.000000
-illum 2
-map_Kd smlexample:block/facing_block_obj
+# Made in Blockbench 5.0.4
+newmtl m_95464200-f067-14de-333f-616baf877d3f
+map_Kd minecraft:block/cobblestone
+newmtl none
